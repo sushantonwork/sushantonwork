@@ -9,9 +9,7 @@ I'm **Sushant Kachhap**, a full-stack developer obsessed with building intellige
 
 💼  Upcoming Trainee Software Engineer @ GlobalLogic
 
-💼  Former Software Development Intern @ Howe Robinson Partners
-
-🔭  I'm currently working on AI-powered development tools and blockchain-based healthcare solutions
+🔭  Former Software Development Intern @ Howe Robinson Partners
 
 🌱  I'm currently learning System Design, Java Spring Boot and advanced smart contract development
 
