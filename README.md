@@ -7,8 +7,6 @@ I'm **Sushant Kachhap**, a full-stack developer obsessed with building intellige
 ```
 🎓  B.Tech in Computer Science @ NIT Jamshedpur (2022-2026)
 
-💼  Upcoming Trainee Software Engineer @ GlobalLogic
-
 🔭  Former Software Development Intern @ Howe Robinson Partners
 
 🌱  I'm currently learning System Design, Java Spring Boot and advanced smart contract development
